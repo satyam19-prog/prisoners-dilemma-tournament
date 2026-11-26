@@ -32,3 +32,18 @@ prisoners_dilemma_project/
 ├── engine.py       # Payoff matrix, noise logic, and round-robin engine
 ├── experiments.py  # Experiment runner and matplotlib chart generation
 └── outputs/        # Generated PNG visualizations
+
+
+## Results
+
+### 1. Standard Round-Robin Leaderboard (0% Noise)
+![Standard Leaderboard](outputs/1_standard_leaderboard.png)
+
+### 2. Pairwise Matchup Heatmap
+![Pairwise Heatmap](outputs/2_pairwise_heatmap.png)
+
+### 3. Noise Sensitivity (0%–20% Error Rate)
+![Noise Sensitivity](outputs/3_noise_sensitivity.png)
+
+### 4. Short vs. Long Horizon (10 vs. 200 Rounds)
+![Horizon Comparison](outputs/4_horizon_comparison.png)
