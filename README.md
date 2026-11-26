@@ -33,7 +33,7 @@ prisoners_dilemma_project/
 ├── experiments.py  # Experiment runner and matplotlib chart generation
 └── outputs/        # Generated PNG visualizations
 
-
+```
 ## Results
 
 ### 1. Standard Round-Robin Leaderboard (0% Noise)
